@@ -1,0 +1,5 @@
+outs:
+- md5: 4b4b40334d09b1d0132e94fc7f8895ec
+  size: 4970
+  hash: md5
+  path: penguins_logreg.joblib
