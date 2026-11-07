@@ -1,0 +1,5 @@
+outs:
+- md5: c6fa9ba28b636a2c4d254ce578658b45
+  size: 1700495
+  hash: md5
+  path: penguins_lab2_pipeline.joblib

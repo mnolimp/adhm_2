@@ -1,0 +1,5 @@
+outs:
+- md5: 35c3821a6efa2125fcff2db582432c21
+  size: 14381
+  hash: md5
+  path: penguins_prepared.csv
